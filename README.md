@@ -3,7 +3,7 @@
 
 ### About Me:
 
-- ⌨️ Full Stack Developer
+- ⌨️ Full Stack Java Developer
 - 👨‍🏫 Computer Engineering Student
 - 💻 Technology
 <!-- - I'm currently learning more about:
